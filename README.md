@@ -19,3 +19,7 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 - Event Handling
 - JavaScript Logic Building
 - Responsive Web Design
+
+## Screenshot
+
+![Game Screenshot](screenshot.png)
