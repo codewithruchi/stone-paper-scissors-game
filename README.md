@@ -1,3 +1,6 @@
+# Live Demo
+https://codewithruchi.github.io/stone-paper-scissors-game/
+
 # Stone Paper Scissors Game
 
 ## Overview
