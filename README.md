@@ -25,4 +25,4 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 
 ## Screenshot
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot](Screenshot.png)
